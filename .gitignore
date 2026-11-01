@@ -1,0 +1,11 @@
+# TaskFlow - Author: Nalini Jain
+node_modules/
+dist/
+target/
+.idea/
+.vscode/
+*.log
+.env
+.env.local
+*.iml
+.DS_Store
