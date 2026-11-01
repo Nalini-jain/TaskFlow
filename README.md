@@ -47,7 +47,7 @@ Backend layers (`backend/src/main/java/com/taskflow`): `model` (entities), `repo
 | Input validation | Bean Validation on all request DTOs; consistent JSON error bodies via `GlobalExceptionHandler`. |
 | CORS | Restricted to the origins in `CORS_ORIGINS`. |
 
-### Permission matrix
+### Permission Matrix
 
 | Action | Viewer | Member | Admin |
 |---|:-:|:-:|:-:|
